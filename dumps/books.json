@@ -1,0 +1,32 @@
+[
+    {
+        "id": 3,
+        "title": "Animal Farm",
+        "price": 20.5,
+        "author_id": 2
+    },
+    {
+        "id": 4,
+        "title": "Animal Farm",
+        "price": 20.5,
+        "author_id": 2
+    },
+    {
+        "id": 6,
+        "title": "Hamlet",
+        "price": 28.5,
+        "author_id": 4
+    },
+    {
+        "id": 7,
+        "title": "It ends with us",
+        "price": 58.5,
+        "author_id": 5
+    },
+    {
+        "id": 5,
+        "title": "It ends with us(updated)",
+        "price": 58.5,
+        "author_id": 5
+    }
+]

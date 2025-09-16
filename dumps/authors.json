@@ -1,0 +1,17 @@
+[
+    {
+        "id": 2,
+        "name": "George Orwell",
+        "email": "george@gmail.com"
+    },
+    {
+        "id": 4,
+        "name": "william Shakespeare",
+        "email": "william@gmail.com"
+    },
+    {
+        "id": 5,
+        "name": "Colleen Hoovers",
+        "email": "colleenhoovers@gmail.com"
+    }
+]
